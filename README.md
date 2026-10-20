@@ -63,4 +63,4 @@ Mein Schwerpunkt liegt auf der Mitarbeit an einem bestehenden Produkt: konkrete 
 - Produktkontext: [tennify](https://tennify.de/) und [Buchungsleitfaden](https://tennify.de/guides/booking-guide/), Leitfaden am **20.10.2026** abgerufen. Die Produktdokumentation bestätigt den beschriebenen Ablauf, nicht meinen persönlichen Projektbeitrag.
 - Veröffentlichung dieser Arbeitsprobe: **20.10.2026**. Enthalten sind die Fallstudie und ein Original-Produktmockup; kein interner Anwendungsquellcode.
 
-Weitere Arbeitsproben: [FA Finance](https://github.com/cembagana62-jpg/fa-finance-case-study) · [Kamm In](https://github.com/cembagana62-jpg/kamm-in-case-study) · [All Villa](https://github.com/cembagana62-jpg/all-villa-case-study)
+Weitere Arbeitsproben: [FA Finance](https://github.com/cem-bagana/fa-finance-case-study) · [Kamm In](https://github.com/cem-bagana/kamm-in-case-study) · [All Villa](https://github.com/cem-bagana/all-villa-case-study)
